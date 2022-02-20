@@ -2,9 +2,9 @@ Package: miscAsmQC
 Title: Misc. funcs for evaluating assemblies
 Version: 0.0.0.9000
 Authors@R: 
-    person("Matt", "Lawlor",  role = c("aut", "cre"))
+    person("Matt", "Lawlor", ,"matt.a.lawlor@gmail.com",role = c("aut", "cre"))
 Description: A collection of functions for comparison and QC for de novo assemblies.
-License: `use_mit_license()`
+License: MIT + file LICENSE
 Imports: 
     Biostrings,
     dplyr,
